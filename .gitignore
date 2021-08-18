@@ -1,9 +1,0 @@
-node_modules
-dist
-.vscode
-.DS_Store
-
-# dotenv environment variables file
-.env
-.env.test
-.env.production
