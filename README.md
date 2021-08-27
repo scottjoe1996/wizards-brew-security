@@ -1,1 +1,1 @@
-# wizards-brew-security
+# security
